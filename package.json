@@ -4,11 +4,11 @@
   "description": "An example of using machines in a vanilla Node.js script and web server.",
   "main": "index.js",
   "scripts": {
-    "test": "gls"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:node-machine/vanilla-node-example.git"
   },
   "author": "Mike McNeil",
   "license": "MIT"
