@@ -11,5 +11,8 @@
     "url": "git@github.com:node-machine/vanilla-node-example.git"
   },
   "author": "Mike McNeil",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "machinepack-slack": "^0.1.2"
+  }
 }
