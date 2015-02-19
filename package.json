@@ -1,7 +1,7 @@
 {
   "name": "vanilla-node-example",
   "version": "0.0.0",
-  "description": "An example of using machines in a vanilla Node.js script or web server.",
+  "description": "An example of using machines in a vanilla Node.js script and web server.",
   "main": "index.js",
   "scripts": {
     "test": "gls"
