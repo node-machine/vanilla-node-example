@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-node-example",
+  "version": "0.0.0",
+  "description": "An example of using machines in a vanilla Node.js script or web server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gls"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Mike McNeil",
+  "license": "MIT"
+}
